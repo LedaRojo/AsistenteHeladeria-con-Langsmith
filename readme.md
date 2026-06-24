@@ -6,3 +6,4 @@ Telegram+Uso de LangSmith como plataforma para trazas, evaluación y depuración
 
 **Después de ejecutar el código en el panel de LangSmith se puede ver  paso a paso qué hace el AGENTE IA: indicaciones, respuestas, errores, tiempos y costos:**
 <img width="1293" height="497" alt="image" src="https://github.com/user-attachments/assets/186fa7e0-07af-46fe-a0de-4cb51c1cbbd2" />
+<img width="1346" height="536" alt="image" src="https://github.com/user-attachments/assets/11c91a95-e79e-4e91-8b64-99246bedbe75" />
